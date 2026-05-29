@@ -25,13 +25,13 @@ st.write(
 
 st.header("📌 나의 목표")
 st.write(
-    "저의 주요 목표는 [목표를 여기에 입력하세요]. "
+    "저의 주요 목표는 [주변사람들에게 따뜻함을 전할 수 있는 사랑 넘치는 사람]이 되기. "
     "새로운 도전과 배움을 통해 성장하는 것을 좋아합니다."
 )
 
 st.header("📫 Contact")
 st.write(
-    "- 이메일: [your.email@example.com]"
+    "- 이메일: [yennieroy1378@gmail.com]"
     "\n- GitHub: [https://github.com/yourname](https://github.com/yourname)"
 )
 
